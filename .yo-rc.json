@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "hello-property-pane",
+    "libraryId": "15bf7fcf-27bd-47d8-97df-4a78efd38723",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
